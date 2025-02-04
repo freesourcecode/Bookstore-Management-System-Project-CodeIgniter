@@ -43,7 +43,7 @@ To start executing this project, makes sure that you have any platform in creati
 
 ## How to run the Bookstore Management System Project in CodeIgniter?
 
-These are the steps on how to run **Bookstore Management System Project in CodeIgniter**
+These are the steps on how to run **Bookstore Management System Project in CodeIgniter**.
 
 1. **Download Source Code**
 
